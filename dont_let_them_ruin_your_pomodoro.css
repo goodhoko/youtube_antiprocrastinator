@@ -1,0 +1,14 @@
+/* watch-next suggestions */
+.ytd-watch-next-secondary-results-renderer,
+/* expanded menu */
+#guide-wrapper #guide-inner-content,
+/* collapsed menu */
+#content ytd-mini-guide-renderer #items,
+/* YT logo and menu button in the top-bar. */
+#content #masthead #start,
+/* main grid of most video listings */
+#content #page-manager ytd-browse,
+/* suggestion in the player after video end */
+.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles {
+    display: none !important;
+}

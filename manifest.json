@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "yt-focus",
+    "version": "1.0",
+    "description": "Strips YouTube of anything that isn't necessary to watch a single video.",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.youtube.com/*"
+            ],
+            "css": [
+                "dont_let_them_ruin_your_pomodoro.css"
+            ]
+        }
+    ]
+}
