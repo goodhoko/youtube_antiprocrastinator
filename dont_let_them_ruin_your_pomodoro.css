@@ -8,7 +8,7 @@
 #content #masthead #start,
 /* main grid of most video listings */
 #content #page-manager ytd-browse,
-/* suggestion in the player after video end */
+/* suggestions in the player after video end */
 .html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles {
     display: none !important;
 }
