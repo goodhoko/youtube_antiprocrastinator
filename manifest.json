@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "yt-focus",
+    "name": "YouTube Antiprocrastinator",
     "version": "1.0",
-    "description": "Strips YouTube of anything that isn't necessary to watch a single video.",
+    "description": "Strips YouTube of anything that isn't necessary to watch a single video.\n\nDo you spend way to much time on YouTube? Blocking YouTube entirely doesn't work for you because you still want to watch a video from time to time? Then try this addon? It hides almost everything on YouTube except the player, comments and search bar. No more endless loops in recommendations, no more \"Let me just check the homepage for some new stuff.\"",
     "icons": {
         "48": "icon.svg",
         "96": "icon.svg"
