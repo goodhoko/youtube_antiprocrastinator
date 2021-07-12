@@ -3,6 +3,10 @@
     "name": "yt-focus",
     "version": "1.0",
     "description": "Strips YouTube of anything that isn't necessary to watch a single video.",
+    "icons": {
+        "48": "icon.svg",
+        "96": "icon.svg"
+    },
     "content_scripts": [
         {
             "matches": [
