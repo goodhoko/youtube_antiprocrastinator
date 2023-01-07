@@ -5,7 +5,7 @@
     "description": "Strips YouTube of anything that isn't necessary to watch a single video.\n\nDo you spend way to much time on YouTube? Blocking YouTube entirely doesn't work for you because you still want to watch a video from time to time? Then try this addon! It hides almost everything on YouTube except the player, comments and search bar. No more endless loops in recommendations, no more \"Let me just check the homepage for some new stuff.\"",
     "developer": {
         "name": "Jen Tak",
-        "url": "https://buhvi.co/"
+        "url": "https://jentak.co/"
     },
     "homepage_url": "https://github.com/goodhoko/youtube_antiprocrastinator",
     "icons": {
