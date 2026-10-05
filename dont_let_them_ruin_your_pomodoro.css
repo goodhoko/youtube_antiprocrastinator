@@ -9,6 +9,7 @@
 /* main grid of most video listings */
 #content #page-manager ytd-browse,
 /* suggestions in the player after video end */
-.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles {
-    display: none !important;
+.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles,
+.ytp-suggestion-set {
+  display: none !important;
 }
